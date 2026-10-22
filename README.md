@@ -16,9 +16,17 @@ A thought on a walk. A conversation worth remembering. An explanation you want t
 
 ## From a moment to a notebook
 
-| Capture | Read | Return |
-| --- | --- | --- |
-| Record a thought or import an existing audio file. | Follow a readable transcript alongside the recording. | Play it back and keep the original audio with your notes. |
+### Capture
+
+Record a thought or import an existing audio file.
+
+### Read
+
+Follow a readable transcript alongside the recording.
+
+### Return
+
+Play it back and keep the original audio with your notes.
 
 The recording remains valuable even when transcription needs another attempt. REED is designed around keeping the original audio and making the state of each recording clear.
 
