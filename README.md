@@ -22,6 +22,14 @@ A thought on a walk. A conversation worth remembering. An explanation you want t
 
 The recording remains valuable even when transcription needs another attempt. REED is designed around keeping the original audio and making the state of each recording clear.
 
+## The next design pass
+
+The approved 15 October design brings the library and transcript closer together: clearer time markers, more readable text and quiet coral recording controls. These are Figma design previews; implementation is still in progress.
+
+<p align="center"><img src="assets/design-library-20261015.png" alt="REED approved Figma design preview of the recording library" width="340"></p>
+
+<p align="center"><sub>Approved design, 15 October 2026. A design preview, separate from the development capture above.</sub></p>
+
 ## Quiet enough to listen
 
 Warm coral marks the recording controls; the rest of the interface gives the words room. The aim is a notebook you can read comfortably after the moment has passed.
@@ -32,7 +40,7 @@ This is one of my independent product projects: shaping the experience, building
 
 REED is in development for Mac and iPhone. This page is a product preview; a public download is not available here. Features and availability may change as the application is tested.
 
-The image above demonstrates the interface with sample content. It does not contain a private conversation. Cross-device sync is a future direction, rather than a feature promised by this preview.
+The development capture demonstrates the interface with sample content; the newer Figma export shows the approved design direction. It does not contain a private conversation. Cross-device sync is a future direction, rather than a feature promised by this preview.
 
 ---
 
