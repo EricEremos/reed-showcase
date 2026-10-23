@@ -1,54 +1,51 @@
 <p align="center"><strong>REED</strong></p>
 
-<h1 align="center">Keep what was said.</h1>
+<h1 align="center">Catch the thought.<br>Keep the words.</h1>
 
 <p align="center">A voice notebook for recordings you want to return to.</p>
 
-<p align="center"><a href="#from-a-moment-to-a-notebook">Explore the idea</a> · <a href="#development-status">Development status</a></p>
+<p align="center"><a href="#from-a-moment-to-a-notebook">Explore the experience</a> · <a href="#development-status">Development status</a></p>
 
-<p align="center"><a href="assets/voice-notebook.png"><img src="assets/reed-figma-01-final-20261023.png" alt="REED campaign card: Keep what was said, with the original iPhone recording and sample transcript interface" width="430"></a></p>
+<p align="center"><a href="assets/voice-notebook.png"><img src="assets/reed-figma-01-final-20261023.png" alt="REED campaign card framing the original iPhone recording and sample transcript screen. Select it to inspect the unframed capture." width="430"></a></p>
 
-<p align="center"><sub>Campaign composed in Figma around an actual iPhone development capture. Tap to inspect the original sample transcript. Work in progress.</sub></p>
+## Some things are easier to say first
 
-## Some things are easier to say first.
-
-A thought on a walk. A conversation worth remembering. An explanation you want to hear again. REED gives that audio a place to live, with a transcript that helps you find your way back.
+A thought on a walk. An explanation you want to hear again. Something you are not ready to write. REED gives that audio a place to live, with a transcript that helps you find your way back.
 
 ## From a moment to a notebook
 
-### Capture
+**Capture it.** Record a thought or import an existing audio file.
 
-Record a thought or import an existing audio file.
+**Read it back.** Follow the transcript alongside the recording.
 
-### Read
+**Return to the voice.** Play the audio again and keep it with your notes.
 
-Follow a readable transcript alongside the recording.
+The original recording matters even when a transcript needs another attempt. Keeping the audio and making each recording's state clear are central to the product.
 
-### Return
+## Give the words room
 
-Play it back and keep the original audio with your notes.
+Warm coral marks the recording controls; the surrounding interface stays quiet. The next design pass brings the library and transcript closer together, with clearer time markers and more readable text.
 
-The recording remains valuable even when transcription needs another attempt. REED is designed around keeping the original audio and making the state of each recording clear.
+<p align="center"><img src="assets/design-library-20261015.png" alt="Approved REED Figma design preview of the recording library, with coral controls and a quiet reading layout." width="340"></p>
 
-## The next design pass
+<p align="center"><sub>Approved Figma design · 15 October 2026 · Implementation in progress.</sub></p>
 
-The approved 15 October design brings the library and transcript closer together: clearer time markers, more readable text and quiet coral recording controls. These are Figma design previews; implementation is still in progress.
+## My work on REED
 
-<p align="center"><img src="assets/design-library-20261015.png" alt="REED approved Figma design preview of the recording library" width="340"></p>
-
-<p align="center"><sub>Approved design, 15 October 2026. A design preview, separate from the development capture above.</sub></p>
-
-## Quiet enough to listen
-
-Warm coral marks the recording controls; the rest of the interface gives the words room. The aim is a notebook you can read comfortably after the moment has passed.
-
-This is one of my independent product projects: shaping the experience, building the application and refining the small details that make recording and reading feel connected.
+REED is an independent product project. I shape the recording and reading experience, design the interface and build the application. The work follows a thought through its whole life in the app: capture, transcription, review and return.
 
 ## Development status
 
-REED is in development for Mac and iPhone. This page is a product preview; a public download is not available here. Features and availability may change as the application is tested.
+REED is in development for Mac and iPhone. A public download is not available here. Cross-device sync remains a future direction.
 
-The development capture demonstrates the interface with sample content; the newer Figma export shows the approved design direction. It does not contain a private conversation. Cross-device sync is a future direction, rather than a feature promised by this preview.
+<details>
+<summary>Which screens are working captures?</summary>
+
+The hero campaign was composed in Figma around an actual iPhone development capture from 15 October 2026. Select it to inspect the original sample transcript; it contains no private conversation.
+
+The library image is a separate, approved Figma design preview dated 15 October 2026. It shows the design direction, not a completed implementation. Features and availability may change during testing.
+
+</details>
 
 ---
 
