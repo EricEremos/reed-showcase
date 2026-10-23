@@ -6,9 +6,9 @@
 
 <p align="center"><a href="#from-a-moment-to-a-notebook">Explore the idea</a> · <a href="#development-status">Development status</a></p>
 
-<p align="center"><img src="assets/voice-notebook.png" alt="REED development capture showing a recording and a readable Korean sample transcript" width="340"></p>
+<p align="center"><a href="assets/voice-notebook.png"><img src="assets/reed-figma-01-final-20261023.png" alt="REED campaign card: Keep what was said, with the original iPhone recording and sample transcript interface" width="430"></a></p>
 
-<p align="center"><sub>Actual iPhone development capture with a sample transcript. Preview of work in progress.</sub></p>
+<p align="center"><sub>Campaign composed in Figma around an actual iPhone development capture. Tap to inspect the original sample transcript. Work in progress.</sub></p>
 
 ## Some things are easier to say first.
 
