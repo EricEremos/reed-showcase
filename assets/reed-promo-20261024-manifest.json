@@ -1,0 +1,56 @@
+{
+ "product": "reed",
+ "edition": "2026-10-24 (latest film)",
+ "film": {
+  "duration_seconds": 23.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "audio": "silent",
+  "readme_loop": "the full film"
+ },
+ "production": {
+  "visual_author": "Claude, HyperFrames (HTML and GSAP rendered in Chrome)",
+  "principle": "Original product interface pixels are scaled, cropped and moved; campaign type and motion sit around them. No on-screen provenance labels; qualifications live here and beside the film."
+ },
+ "qualification": "In development; no public download yet. iPhone development build running in the Simulator with English sample recordings, captured on 23 October 2026.",
+ "sources": {
+  "captures": {
+   "en-P1.png": {
+    "sha256": "df36735daef94e900f3e4d6a3bb2f2e567878b74ef410093ec5b3b4fd94b58fe"
+   },
+   "en-P2.png": {
+    "sha256": "e5a0b449710faf7e136c74ec32f37706201a9065b08de6069d1290f35234d256"
+   },
+   "en-long.png": {
+    "sha256": "e0e4c1ed1388cc12acc46ac20a3848fc35bb368eb8312e1299cfd22f9563aabe"
+   },
+   "en-import.png": {
+    "sha256": "5cf6b2938f93907da05025d55f99a58a2e82fa885be74919e18a6f50458dd0f7"
+   },
+   "en-P5.png": {
+    "sha256": "2011b155e785f849ed4b7bb9afbeb55ed37e767161cc59243c2dea85b512f077"
+   }
+  },
+  "how": "REED identity fixture ios-fixture-06 (exec sha b331a7d0...), iPhone 17 Pro sim iOS 27.0, AppleLanguages en; sample recordings rewritten in English in the fixture container; status bar overridden 9:41; transcription language default ko-KR is hard-coded in this build",
+  "lifts": "full-res crops: kept row en-long(51,505,901,563); live paragraph en-P2(230,1660,1160,2135) with an 90 px bottom fade; import popover interior en-import(292,412,1132,722) on a rebuilt white rounded card",
+  "fixture_sha256_exec": "b331a7d05d9818b8..."
+ },
+ "files": {
+  "mp4": {
+   "path": "assets/reed-promo-20261024.mp4",
+   "bytes": 1202104,
+   "sha256": "19a008c28937aa7426925338383576bb55773ab9d803102d64e23895ffd35fef"
+  },
+  "gif": {
+   "path": "assets/reed-promo-20261024.gif",
+   "bytes": 1444846,
+   "sha256": "41351c918b57f90805a6f465da07fbf81f3a28b43ba9cc8a3ad92421147de4d0"
+  },
+  "poster": {
+   "path": "assets/reed-promo-20261024-poster.png",
+   "bytes": 484705,
+   "sha256": "4e76d05a99df780d2296f959f1e0edbd4100cdf38064ca777aa92fb416fd0330"
+  }
+ }
+}

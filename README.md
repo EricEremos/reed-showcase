@@ -8,6 +8,14 @@
 
 <p align="center"><a href="assets/voice-notebook.png"><img src="assets/reed-figma-01-final-20261023.png" alt="REED campaign card framing the original iPhone recording and sample transcript screen. Select it to inspect the unframed capture." width="430"></a></p>
 
+## Watch the product film
+
+<p align="center"><a href="assets/reed-promo-20261024.mp4"><img src="assets/reed-promo-20261024.gif" alt="REED film: a red recording dot becomes lines of text beside the REED iPhone app, showing recording, the live transcript, a long recording kept with its timestamps, and importing files or links." width="100%"></a></p>
+
+[Watch the full film (MP4)](assets/reed-promo-20261024.mp4) · [Open the still frame](assets/reed-promo-20261024-poster.png) · [Capture and production details](assets/reed-promo-20261024-manifest.json)
+
+In development; no public download yet. iPhone development build running in the Simulator with English sample recordings, captured on 23 October 2026.
+
 ## Some things are easier to say first
 
 A thought on a walk. An explanation you want to hear again. Something you are not ready to write. REED gives that audio a place to live, with a transcript that helps you find your way back.
