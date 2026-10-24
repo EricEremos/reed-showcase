@@ -6,9 +6,9 @@
 
 <p align="center"><a href="#from-a-moment-to-a-notebook">Explore the experience</a> · <a href="#development-status">Development status</a></p>
 
-<p align="center"><a href="assets/reed-promo-20261024.mp4"><img src="assets/reed-promo-20261024.gif" alt="REED film: a red recording dot becomes lines of text beside the REED iPhone app, showing recording, the live transcript, a long recording kept with its timestamps, and importing files or links." width="100%"></a></p>
+<p align="center"><a href="assets/reed-promo-20261024.mp4"><img src="assets/reed-promo-20261024.gif" alt="REED film framed as a live transcript: words arrive grey and settle into ink beside timestamps, the phone hands real paragraphs into it, a clock runs past an hour, and it ends on a coral flood with the REED wordmark: What would you like to keep?" width="100%"></a></p>
 
-<p align="center"><sub>In development; no public download yet. iPhone development build running in the Simulator with English sample recordings, captured on 23 October 2026.</sub><br><a href="assets/reed-promo-20261024.mp4">Watch the full film</a> · <a href="assets/reed-promo-20261024-poster.png">Still frame</a> · <a href="assets/reed-promo-20261024-manifest.json">Capture details</a></p>
+<p align="center"><sub>In development; not released. Animated product screenshots of English captures from an iPhone Simulator development build, with sample recordings, not user data. The word arrival is brand animation of live transcription. No sync is shown.</sub><br><a href="assets/reed-promo-20261024.mp4">Watch the full film</a> · <a href="assets/reed-promo-20261024-poster.png">Still frame</a> · <a href="assets/reed-promo-20261024-manifest.json">Capture details</a></p>
 
 ## Some things are easier to say first
 
